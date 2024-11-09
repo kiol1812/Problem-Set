@@ -7,7 +7,7 @@ memory limit per test: 256 megabytes
 原題連結：[LeetCode[construct binary tree from preorder and inorder traversal]](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
 
 ### Input
-輸入共兩行，第一行有$n$個整數為前敘走訪的結果，中間由空格隔開，而第二行則是中敘走訪同一棵樹的結果。
+輸入共兩行，第一行有 $n$ 個整數為前敘走訪的結果，中間由空格隔開，而第二行則是中敘走訪同一棵樹的結果。
 - $1 \le$ preorder.length $\le 3000$
 - $-3000 \le$ preorder\[i\], inorder\[i\] $\le 3000$
 - inorder 與 preorder 的長度相等。

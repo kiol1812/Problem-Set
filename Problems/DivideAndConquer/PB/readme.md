@@ -10,7 +10,7 @@ memory limit per test: 256 megabytes
 原題連結：[LeetCode[maximum binary tree]](https://leetcode.com/problems/maximum-binary-tree/)
 
 ### Input
-輸入共一行，有$n$個數值為`nums`陣列的每個元素，中間由空格隔開。
+輸入共一行，有 $n$ 個數值為`nums`陣列的每個元素，中間由空格隔開。
 - $1 \le$ nums.length $\le 1000$
 - $0 \le$ nums[i] $\le 1000$
 - 在nums中的整數不會重複
