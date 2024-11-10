@@ -26,7 +26,7 @@ Input
 
 Output
 ```plain
-3 9 20 null null 15 7
+3 9 20 null null 15 7 null null null null
 ```
 ```mermaid
 flowchart TD
@@ -37,4 +37,8 @@ flowchart TD
     B --> E((null))
     C --> F((&ensp;15&ensp;))
     C --> G((&ensp;&thinsp;7&thinsp;&ensp;))
+    F --> H((null))
+    F --> I((null))
+    G --> J((null))
+    G --> K((null))
 ```
